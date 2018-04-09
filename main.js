@@ -45,7 +45,7 @@ app.on('ready', function() {
 
 
           mainWindow = new BrowserWindow({width: 1200, height: 800})
-          // mainWindow.openDevTools();
+          mainWindow.openDevTools();
           mainWindow.loadURL(url.format({
             pathname: path.join(__dirname, "index.html"),
             protocol: 'file',
