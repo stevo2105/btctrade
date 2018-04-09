@@ -6,10 +6,11 @@
   "repository": "https://github.com/stevo2105/btctrade",
   "scripts": {
     "start": "electron .",
-    "package-win": "electron-packager . ProfilePass --overwrite --asar=true --platform=win32 --arch=ia32 --icon=appicon.ico --no-prune --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"ProfilePass\""
+    "package-win": "electron-packager . ProfilePass --overwrite --asar=true --platform=win32 --arch=ia32 --icon=appicon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"ProfilePass\"",
+    "postinstall": "install-app-deps"
   },
   "build": {
-    "appId": "com.ProfilePass",
+    "appId": "profilepass",
     "category": "com.profilepass",
     "dmg": {
       "contents": [
