@@ -3,7 +3,7 @@
     "readme": "Second release",
     "update": "https://dl.dropbox.com/s/vuegp6pgpzaim41/ProfilePassSetup.exe?dl=0",
     "install": "https://dl.dropbox.com/s/vuegp6pgpzaim41/ProfilePassSetup.exe?dl=0",
-    "version": "1.0.1"
+    "version": "1.0.0"
   },
   "darwin-x64-prod": {
     "readme": "Second Release",
