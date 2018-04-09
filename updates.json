@@ -1,7 +1,7 @@
 {
   "win32-ia32-prod": {
     "readme": "Second release",
-    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2",
+    "update": "https://www.dl.dropbox.com/s/vuegp6pgpzaim41/ProfilePassSetup.exe?dl=0",
     "install": "https://www.dl.dropbox.com/s/vuegp6pgpzaim41/ProfilePassSetup.exe?dl=0",
     "version": "1.0.1"
   },
