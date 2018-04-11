@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/stevo2105/btctrade/releases/download/win32-x64-prod-v0.1.4",
-    "install": "https://github.com/stevo2105/btctrade/releases/download/win32-x64-prod-v0.1.4/Profile.Pass.Setup.0.1.4.exe",
-    "version": "0.1.4"
+    "update": "https://github.com/stevo2105/btctrade/releases/download/win32-x64-prod-v0.1.5",
+    "install": "https://github.com/stevo2105/btctrade/releases/download/win32-x64-prod-v0.1.5/Profile.Pass.Setup.0.1.5.exe",
+    "version": "0.1.5"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/stevo2105/btctrade/releases/download/darwin-x64-prod-v0.0.1/release.json",
